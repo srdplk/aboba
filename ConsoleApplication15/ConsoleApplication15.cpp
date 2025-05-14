@@ -13,7 +13,7 @@ int pc = 0;
 unsigned int ro;
 unsigned int i;
 
-void age() {
+void age() {//
 	srand(time(NULL));
 
 	cout << "Введите количество раундов\n";
